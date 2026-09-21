@@ -1,0 +1,21 @@
+{
+ "version": "0.8.2",
+ "notes": [
+  "Curve Studio, keyframe Timing tools, 8 console shortcuts, screenshot button",
+  "updates now come from github.com/theprimotionstudios/Mr.-Wheel-Plugin"
+ ],
+ "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.8.2/mrwheel-update-0.8.2.zip",
+ "sha256": "1f593f295d549e2fda80aff6b841319bac0d60c861fd882cf59f5036c248159a",
+ "size": 162755,
+ "mandatory": false,
+ "win": {
+  "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.8.2/MrWheel-Setup-0.8.2.exe",
+  "sha256": "<sha256 of the .exe>",
+  "size": 0
+ },
+ "mac": {
+  "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.8.2/MrWheel-0.8.2.dmg",
+  "sha256": "<sha256 of the .dmg>",
+  "size": 0
+ }
+}
