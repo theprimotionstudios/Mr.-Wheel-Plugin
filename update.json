@@ -1,0 +1,28 @@
+{
+ "version": "0.8.6",
+ "notes": [
+  "New: Mr. Wheel for macOS \u2014 a signed app for Apple Silicon and Intel that installs its After Effects extension by itself, moves itself to Applications, starts with your Mac and asks for Accessibility",
+  "Improved: Macs update by replacing the app automatically"
+ ],
+ "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.8.6/mrwheel-update-0.8.6.zip",
+ "sha256": "1cd7d1e8287b886adb554d4a02388b81975d80a3731bb3e3381ae2e01aedd7ec",
+ "size": 209274,
+ "mandatory": false,
+ "win": {
+  "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.8.6/MrWheel-Setup-0.8.6.exe",
+  "sha256": "1e58aef76b11c2551cd8f72ade5f14b29f289f74583c66f86cc482dacc50cdcb",
+  "size": 81099143
+ },
+ "mac": {
+  "arm64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.8.6/MrWheel-0.8.6-mac-arm64.zip",
+   "sha256": "fc231736328cd290a9463bc96333f255ea1aef71504e90a61e036fd0ce39a74c",
+   "size": 95916229
+  },
+  "x64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.8.6/MrWheel-0.8.6-mac-x64.zip",
+   "sha256": "1a5166e53b5b0b6c6feec61eaa64d027c8f736e171519faefaa5e97fb9fdcc56",
+   "size": 103512938
+  }
+ }
+}
