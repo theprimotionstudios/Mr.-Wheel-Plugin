@@ -1,0 +1,30 @@
+{
+ "version": "0.9.3",
+ "notes": [
+  "New: Duplicate numbers the copy (Music 1, Music 2\u2026) and makes a fully independent copy of a precomp and every comp inside it",
+  "New: when an update is out you see a dot on the tray icon, the ring's gear and the Updates tab, plus a note in the settings title bar",
+  "Improved: Curve Studio has one Speed / Value switch for every graph",
+  "Improved: cleaner settings \u2014 theme above wallpaper, fewer switches, no extra menu"
+ ],
+ "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.9.3/mrwheel-update-0.9.3.zip",
+ "sha256": "ab7b49634dc12f320a64ef2b019fd90f6f0687015fe08f6b9af30fd57d5dddb8",
+ "size": 223258,
+ "mandatory": false,
+ "win": {
+  "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.9.3/MrWheel-Setup-0.9.3.exe",
+  "sha256": "3fed5154e3ab45664d37f35e6d54e0851385e5cceaba41ca56753e1bcf9feadb",
+  "size": 81113203
+ },
+ "mac": {
+  "arm64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.9.3/MrWheel-0.9.3-mac-arm64.zip",
+   "sha256": "7de267265bf2ee31c193515bd81628597ef0638125987d32b39125e6630dfc24",
+   "size": 95930628
+  },
+  "x64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.9.3/MrWheel-0.9.3-mac-x64.zip",
+   "sha256": "02920075658032eee7f242a7754b4c5e44539dea8cfd217ecce4a5be91ae9f7e",
+   "size": 103527342
+  }
+ }
+}
