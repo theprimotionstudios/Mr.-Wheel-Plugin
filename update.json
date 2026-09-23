@@ -1,0 +1,27 @@
+{
+ "version": "0.10.1",
+ "notes": [
+  "Fixed: the star icon now opens the Special wheel on existing installs too"
+ ],
+ "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.1/mrwheel-update-0.10.1.zip",
+ "sha256": "7c89d3a0ecf01fbac75a521d6ff69ba83b9796e0e9c19bd3ab2f147b7e20dee1",
+ "size": 251507,
+ "mandatory": false,
+ "win": {
+  "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.1/MrWheel-Setup-0.10.1.exe",
+  "sha256": "b310c681000e04ac92bcc17bfd78737132a3b2876eaa640e72e075c74d98dad5",
+  "size": 81165761
+ },
+ "mac": {
+  "arm64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.1/MrWheel-0.10.1-mac-arm64.zip",
+   "sha256": "c2996cb42f0aabfbb12fa905b81618cf36e0de8cff72d73fb8c92a9c7dbdae29",
+   "size": 95958651
+  },
+  "x64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.1/MrWheel-0.10.1-mac-x64.zip",
+   "sha256": "5c6b21fd08e83f679caa9847e0deef014b03f6f16632d35f52f40908aa9e8625",
+   "size": 103555353
+  }
+ }
+}
