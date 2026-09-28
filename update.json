@@ -1,0 +1,27 @@
+{
+ "version": "0.10.3",
+ "notes": [
+  "Fixed: the ring vanished right after its entrance animation, leaving only the wallpaper"
+ ],
+ "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.3/mrwheel-update-0.10.3.zip",
+ "sha256": "b372a092096f4e5d3228a25c5b3a8cd1c35084e0616377d03f251596f18b4a45",
+ "size": 251745,
+ "mandatory": false,
+ "win": {
+  "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.3/MrWheel-Setup-0.10.3.exe",
+  "sha256": "6680e930697406afd1907d05cd6211b4984a65357d91ef7598cdc00ce8a4116f",
+  "size": 81209123
+ },
+ "mac": {
+  "arm64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.3/MrWheel-0.10.3-mac-arm64.zip",
+   "sha256": "1dca2800eaf51476f77ff86a6bec3ab501e6a4d594ad8503fe26768e3cca741a",
+   "size": 95958835
+  },
+  "x64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.3/MrWheel-0.10.3-mac-x64.zip",
+   "sha256": "ea0f3bc5ef70b555d155eb1bf955c34000de1ce2d24bc68f84b7d5f080711230",
+   "size": 103555544
+  }
+ }
+}
