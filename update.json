@@ -1,0 +1,27 @@
+{
+ "version": "0.10.2",
+ "notes": [
+  "Fixed: the ring sometimes did not open on Z, or opened invisibly \u2014 the key now stays armed inside After Effects and the ring always finishes its entrance"
+ ],
+ "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.2/mrwheel-update-0.10.2.zip",
+ "sha256": "60eb650d81759ef5c008b28c6bcccf97908a71d684d3eac3ebd9f7c8bff6bdcc",
+ "size": 251777,
+ "mandatory": false,
+ "win": {
+  "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.2/MrWheel-Setup-0.10.2.exe",
+  "sha256": "b63cec0df0455ab43ee66bb4d6ae89858dee6d74649f65074ad508f890c65872",
+  "size": 81137074
+ },
+ "mac": {
+  "arm64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.2/MrWheel-0.10.2-mac-arm64.zip",
+   "sha256": "f08215de331970791a8e1c7c0f1bd35fd0846e3fc56d47a1da15b265d8019473",
+   "size": 95958833
+  },
+  "x64": {
+   "url": "https://github.com/theprimotionstudios/Mr.-Wheel-Plugin/releases/download/v0.10.2/MrWheel-0.10.2-mac-x64.zip",
+   "sha256": "a198b9c6dc973c6f5dd9eac86279e998724c5578c4a3a42e3b33363e25cb7c2c",
+   "size": 103555539
+  }
+ }
+}
